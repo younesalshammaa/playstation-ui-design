@@ -24,9 +24,10 @@ The design showcases a clean visual hierarchy, intuitive navigation, and a moder
 ---
 
 ## 📸 Screenshots
-
+A few preview images from the design:
 ![Screenshot](assets/heros.png)  
 ![Screenshot](assets/PLAYSTATION1.png)
+🔍 Explore more visuals in the `assets/` folder of this repository.
 
 ---
 
