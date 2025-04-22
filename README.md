@@ -25,8 +25,13 @@ The design showcases a clean visual hierarchy, intuitive navigation, and a moder
 
 ## 📸 Screenshots
 A few preview images from the design:
-![Screenshot](assets/heros.png)  
 ![Screenshot](assets/PLAYSTATION1.png)
+![Screenshot](assets/DualSense.png)  
+![Screenshot](assets/game-spider-man.png)
+![Screenshot](assets/ps+.png)  
+![Screenshot](assets/signin.png)
+![Screenshot](assets/payment.png)
+
 🔍 Explore more visuals in the `assets/` folder of this repository.
 
 ---
