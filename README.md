@@ -1,53 +1,46 @@
-# 📚 Web-based Book Management System
+# 🎮 PlayStation-Inspired UI Design
 
-An academic project developed by a team of 5 students during Fall 2024.  
-The system provides core functionalities for managing a book collection through a web interface.
-
----
-
-## 👤 Role
-
-**Team Member (Scrum Master)**  
-- Led the team using Agile methodology  
-- Designed and developed the front-end  
-- Conducted system analysis and UML design  
-- Managed workflow using JIRA
+A user interface project designed in Spring 2024, inspired by the PlayStation Store experience.  
+The design showcases a clean visual hierarchy, intuitive navigation, and a modern aesthetic tailored for a gaming website.
 
 ---
 
-## 💻 Technologies Used
+## 🎨 Role
 
-- **Front-End:** HTML, CSS, JavaScript  
-- **Back-End:** PHP, SQLite  
-- **Project Management:** JIRA  
-- **Testing:** Jest (Frontend), PHPUnit (Backend)  
-- **Design:** UML (Use Case, Class, Sequence diagrams)
+**UI/UX Designer**
 
----
-
-## ⚙️ Key Features
-
-- Add, update, delete, and view books  
-- Simple and intuitive user interface  
-- Input validation and error handling  
-- Functional REST-like backend structure
+- Designed an interactive interface using **Figma**
+- Focused on layout, spacing, and visual hierarchy
+- Presented the design in the university’s project exhibition
+- Received positive feedback for creativity and clarity
 
 ---
 
-## 🧪 Testing Overview
+## 🧰 Tools Used
 
-Both frontend and backend testing were implemented to ensure functional accuracy.
-
-- Frontend tests using **Jest**  
-- Backend tests using **PHPUnit** with in-memory SQLite  
-- For full details, see: [`TESTING.md`](./TESTING.md)
+- Figma (UI Design & Prototyping)
+- Adobe Photoshop (Assets Editing)
 
 ---
 
-## 📌 Project Status
+## 📸 Screenshots
 
-✔️ Completed (Fall 2024)  
-🗣️ Received positive feedback from faculty for clarity, structure, and UI experience.
+![Screenshot](assets/heros.png)  
+![Screenshot](assets/PLAYSTATION1.png)
+
+---
+
+## 🔗 Design Link
+
+[Figma Design (View Only)](https://www.figma.com/proto/eQZBvBAcImpxtSkyOdF1He/SONY-PLAYSTATION?page-id=0%3A1&node-id=829-1060&starting-point-node-id=829%3A1060&t=q9KPj6qmEuuZKr4K-1)
+
+---
+
+## 🧠 Skills Learned
+
+- UI/UX principles  
+- Wireframing & prototyping  
+- User-focused visual hierarchy
 
 ---
 
@@ -56,6 +49,3 @@ Both frontend and backend testing were implemented to ensure functional accuracy
 **Yunes Al-Shamea**  
 Final-year Software Engineering Student  
 📧 younesalshammaa@gmail.com  
-🔗 [GitHub Profile](https://github.com/younesalshammaa)
-
-
